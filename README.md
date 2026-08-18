@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/clouds-banner.gif" width="100%" alt="ASCII clouds animation">
+  <img src="./assets/clouds-banner.svg" width="100%" alt="Animated ASCII clouds">
 
   # Hi, I'm Sofía 👋
 
@@ -54,24 +54,3 @@ digital products that are thoughtful in their UX/UI and solid under the hood. Cu
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### ✨ Featured
-
-- **[sofiacirioni.com](https://sofiacirioni.com)** — my portfolio, an Angular SPA with a custom
-  ASCII animation engine, scroll-driven reveals and a bilingual (EN/ES) interface.
-
-<br>
-
-<div align="center">
-  <!-- Decorative element only (not real data): an ASCII-style grid where some cells twinkle like stars -->
-  <img src="./assets/activity-stars.svg" width="100%" alt="Decorative twinkling grid">
-
-  <!-- Contribution snake — real activity, celeste dots + blue snake.
-       Para activarlo: pestaña Actions → "Generate Snake" → Run workflow (una vez).
-       Cuando exista la rama `output`, descomentá este bloque:
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sofiacirioni/sofiacirioni/output/snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/sofiacirioni/sofiacirioni/output/snake.svg" width="100%" alt="Contribution snake">
-  </picture>
-  -->
-</div>
