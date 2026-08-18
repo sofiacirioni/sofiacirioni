@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/clouds-banner.svg" width="100%" alt="ASCII clouds animation">
+  <img src="./assets/clouds-banner.gif" width="100%" alt="ASCII clouds animation">
 
   # Hi, I'm Sofía 👋
 
@@ -7,12 +7,12 @@
 
   <em>Turning scattered ideas into concrete products through design and code.</em>
 
-  <br>
+  <br><br>
 
   <a href="https://sofiacirioni.com">
     <img src="https://img.shields.io/badge/Portfolio-sofiacirioni.com-0f1fff?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://www.linkedin.com/in/sofiacirioni">
+  <a href="https://www.linkedin.com/in/sofiacirioni/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:sofiacirioni07@gmail.com">
@@ -44,6 +44,30 @@ while looking for a full-time **Frontend / UX-UI** role.
 - **[sofiacirioni.com](https://sofiacirioni.com)** — my portfolio, an Angular SPA with a custom
   ASCII animation engine, scroll-driven reveals and a bilingual (EN/ES) interface.
 
+---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sofiacirioni&show_icons=true&hide_border=true&title_color=0f1fff&icon_color=7d9dff" alt="GitHub stats" width="60%">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiacirioni&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0f1fff&text_color=8b93a7" alt="Most used languages" width="46%">
+
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sofiacirioni&bg_color=00000000&color=7d9dff&line=7d9dff&point=0f1fff&area=true&area_color=7d9dff&hide_border=true" width="100%" alt="Activity graph">
+
+  <br>
+
+  <!-- Decorative activity grid — some cells twinkle like stars -->
+  <img src="./assets/activity-stars.svg" width="100%" alt="Activity grid">
+
+  <br><br>
+
+  <!-- Contribution snake (celeste dots, blue snake).
+       Para activarlo: pestaña Actions → "Generate Snake" → Run workflow (una vez).
+       Cuando exista la rama `output`, descomentá este bloque:
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sofiacirioni/sofiacirioni/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/sofiacirioni/sofiacirioni/output/snake.svg" width="100%" alt="Contribution snake">
+  </picture>
+  -->
+
 </div>
