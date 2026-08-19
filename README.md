@@ -24,7 +24,7 @@
 
 ### 🌤️ About me
 
-Graphic designer turned developer. I work at the intersection of **design and code** — building
+Graphic designer turned developer. I work at the intersection of **design and code**, building
 digital products that are thoughtful in their UX/UI and solid under the hood. Currently working
 **freelance, open to new opportunities**.
 
